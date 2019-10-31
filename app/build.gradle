@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "jp.techacademy.kinugawa.mikako.myapplication2"
+        applicationId "jp.techacademy.kinugawa.mikako.kotlinlog"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
